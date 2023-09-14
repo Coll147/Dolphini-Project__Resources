@@ -1,26 +1,28 @@
 {
- "providers":
-   [
-     {
-	   "type":"bitmap",
-	   "file":"along:font/coins-solid.png",
-	   "ascent":9,
-	   "height":11,
-	   "chars":["\u0F1A"]
-	 },
-	 {
-	   "type":"bitmap",
-	   "file":"along:font/trophy-solid.png",
-	   "ascent":9,
-	   "height":11,
-	   "chars":["\u0F1B"]
-	 },
-	 {
-	   "type":"bitmap",
-	   "file":"along:font/user-solid.png",
-	   "ascent":9,
-	   "height":11,
-	   "chars":["\u0F1C"]
-	 }
-   ]
-}
+	"providers":
+	  [
+		{
+		  "type":"bitmap",
+		  "file":"along:font/coins-solid.png",
+		  "ascent":9,
+		  "height":11,
+		  "chars":["\u0F1A"]
+		},
+		{
+		  "type":"bitmap",
+		  "file":"along:font/trophy-solid.png",
+		  "ascent":9,
+		  "height":11,
+		  "chars":["\u0F1B"]
+		},
+		{
+		  "type":"bitmap",
+		  "file":"along:font/user-solid.png",
+		  "ascent":9,
+		  "height":11,
+		  "chars":["\u0F1C"]
+		}
+	  ]
+
+	  
+   }
